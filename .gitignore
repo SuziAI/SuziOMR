@@ -1,0 +1,10 @@
+*.std
+*.pkl
+*.pdf
+Submission/KuiSCIMA/*
+Submission/BaseLineExperiments/TrainingDataset/*
+Submission/BaseLineExperiments/TotalDataset/*
+Submission/BaseLineExperiments/TrainingDataset/*
+Submission/BaseLineExperiments/TestDataset/*
+IUI_files/DATASET
+temp

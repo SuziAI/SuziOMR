@@ -3,6 +3,7 @@
 *.pdf
 *.png
 *.std
+*.traineddata
 baseline/.ipynb_checkpoints
 baseline/__pycache__
 baseline/KuiSCIMA*

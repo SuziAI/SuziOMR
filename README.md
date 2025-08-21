@@ -1,6 +1,9 @@
 # SuziOMR
 The development of deep learning algorithms for optical music recognition (OMR) of *suzipu* and *lülüpu* musical notations.
 
+<img src="pitch_umap.png" width="400">
+<img src="pitch_umap_samples.png" width="400">
+
 ## How to Cite
 
 The current baseline of the *suzipu* and *lülüpu* OMR algorithms is contained in the publication:
@@ -64,6 +67,3 @@ In the folder `baseline`, the individual scripts and source files are contained:
 * `study_statistics.json`: Contains the accumulated results of the user study
 
 For the technical documentation of the individual parts in the source code, please refer to the [chapter in my dissertation](suziomr_documentation.pdf).
-
-<img src="pitch_umap.png" width="400">
-<img src="pitch_umap_samples.png" width="400">

@@ -45,9 +45,10 @@ In the folder `baseline`, the individual scripts and source files are contained:
 * `00_notation_clustering.ipynb`: Contains the algorithms for the creation of the *Notation Clustering* display. See Chapter 6.1 in my dissertation.
 
 *Suzipu*:
-* `01_suzipu_models.ipynb`: The OMR models, training, and analysis for *suzipu* notation. Contains comparison with human baseline from the user study.
+* `01_suzipu_models.ipynb`: The OMR models, training, and analysis for *suzipu* notation.
 * `02_suzipu_temperature_scaling.ipynb`: Temperature scaling for *suzipu* models.
 * `03_suzipu_clustering_and_similarity`: UMAP clustering of *suzipu* instances according to model features. 
+* `05_suzipu_metrics.ipynb`: Comparison of OMR with human baseline from the user study.
 
 *Lülüpu*:
 * `01_lvlvpu_models.ipynb`: The OMR models, training, and analysis for *lülüpu* notation.

@@ -54,7 +54,7 @@ In the folder `baseline`, the individual scripts and source files are contained:
 * `01_lvlvpu_models.ipynb`: The OMR models, training, and analysis for *lülüpu* notation.
 * `02_lvlvpu_temperature_scaling.ipynb`: Temperature scaling for *lülüpu* models.
 * `03_lvlvpu_clustering_and_similarity.ipynb`: UMAP clustering of *lülüpu* instances according to model features.
-* `04_lvlvpu_tesseract`: Comparison of the *lülüpu* algorithms with a Tesseract OCR baseline.
+* `04_lvlvpu_tesseract`: Comparison of the *lülüpu* algorithms with a Tesseract OCR baseline. In order for this to work, download the file `chi_tra.traineddata` from https://github.com/gumblex/tessdata_chi/releases/tag/v20220621 and put it into the folder `baseline`.
 
 **Source files:**
 * `data_extraction.py`: Function for extracting the individual annotated notation images from the KuiSCIMA corpus.
